@@ -1,0 +1,495 @@
+{
+    "label": "OSH 1911 Tesseract",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "@type": "sc:Manifest",
+    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/manifest",
+    "related": [
+        "https://readux.ecdsdev.org/volume/osh-1911/page/all"
+    ],
+    "viewingDirection": "left-to-right",
+    "thumbnail": {
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000012.jpg",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+        },
+        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000012.jpg/full/600,/0/default.jpg"
+    },
+    "within": [
+        "https://readux.ecdsdev.org/collection/sounding-spirit"
+    ],
+    "sequences": [
+        {
+            "canvases": [
+                {
+                    "label": "1",
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/list/osh-1911_00000012.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/sarepal-github/osh-1911/list/osh-1911_00000012.jpg",
+                            "label": "Annotations by sarepal-github",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "width": 2220,
+                    "@type": "sc:Canvas",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000012.jpg",
+                    "images": [
+                        {
+                            "resource": {
+                                "format": "image/jpeg",
+                                "width": 2220,
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000012.jpg",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000012.jpg/full/full/0/default.jpg",
+                                "height": 1785
+                            },
+                            "@type": "oa:Annotation",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "motivation": "sc:painting",
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-1911/annotation/osh-1911_00000012.jpg",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000012.jpg"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000012.jpg/full/200,/0/default.jpg",
+                        "width": 200,
+                        "height": 250
+                    },
+                    "height": 1785
+                },
+                {
+                    "label": "2",
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/list/osh-1911_00000028.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "width": 2220,
+                    "@type": "sc:Canvas",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000028.jpg",
+                    "images": [
+                        {
+                            "resource": {
+                                "format": "image/jpeg",
+                                "width": 2220,
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000028.jpg",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000028.jpg/full/full/0/default.jpg",
+                                "height": 1785
+                            },
+                            "@type": "oa:Annotation",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "motivation": "sc:painting",
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-1911/annotation/osh-1911_00000028.jpg",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000028.jpg"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000028.jpg/full/200,/0/default.jpg",
+                        "width": 200,
+                        "height": 250
+                    },
+                    "height": 1785
+                },
+                {
+                    "label": "3",
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/list/osh-1911_00000047.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "width": 2220,
+                    "@type": "sc:Canvas",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000047.jpg",
+                    "images": [
+                        {
+                            "resource": {
+                                "format": "image/jpeg",
+                                "width": 2220,
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000047.jpg",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000047.jpg/full/full/0/default.jpg",
+                                "height": 1785
+                            },
+                            "@type": "oa:Annotation",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "motivation": "sc:painting",
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-1911/annotation/osh-1911_00000047.jpg",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000047.jpg"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000047.jpg/full/200,/0/default.jpg",
+                        "width": 200,
+                        "height": 250
+                    },
+                    "height": 1785
+                },
+                {
+                    "label": "4",
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/list/osh-1911_00000140.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "width": 2220,
+                    "@type": "sc:Canvas",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000140.jpg",
+                    "images": [
+                        {
+                            "resource": {
+                                "format": "image/jpeg",
+                                "width": 2220,
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000140.jpg",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000140.jpg/full/full/0/default.jpg",
+                                "height": 1785
+                            },
+                            "@type": "oa:Annotation",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "motivation": "sc:painting",
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-1911/annotation/osh-1911_00000140.jpg",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000140.jpg"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000140.jpg/full/200,/0/default.jpg",
+                        "width": 200,
+                        "height": 250
+                    },
+                    "height": 1785
+                },
+                {
+                    "label": "5",
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/list/osh-1911_00000147.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "width": 2220,
+                    "@type": "sc:Canvas",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000147.jpg",
+                    "images": [
+                        {
+                            "resource": {
+                                "format": "image/jpeg",
+                                "width": 2220,
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000147.jpg",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000147.jpg/full/full/0/default.jpg",
+                                "height": 1785
+                            },
+                            "@type": "oa:Annotation",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "motivation": "sc:painting",
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-1911/annotation/osh-1911_00000147.jpg",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000147.jpg"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000147.jpg/full/200,/0/default.jpg",
+                        "width": 200,
+                        "height": 250
+                    },
+                    "height": 1785
+                },
+                {
+                    "label": "6",
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/list/osh-1911_00000297.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "width": 2220,
+                    "@type": "sc:Canvas",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000297.jpg",
+                    "images": [
+                        {
+                            "resource": {
+                                "format": "image/jpeg",
+                                "width": 2220,
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000297.jpg",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000297.jpg/full/full/0/default.jpg",
+                                "height": 1785
+                            },
+                            "@type": "oa:Annotation",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "motivation": "sc:painting",
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-1911/annotation/osh-1911_00000297.jpg",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000297.jpg"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000297.jpg/full/200,/0/default.jpg",
+                        "width": 200,
+                        "height": 250
+                    },
+                    "height": 1785
+                },
+                {
+                    "label": "7",
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/list/osh-1911_00000350.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "width": 2220,
+                    "@type": "sc:Canvas",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000350.jpg",
+                    "images": [
+                        {
+                            "resource": {
+                                "format": "image/jpeg",
+                                "width": 2220,
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000350.jpg",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000350.jpg/full/full/0/default.jpg",
+                                "height": 1785
+                            },
+                            "@type": "oa:Annotation",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "motivation": "sc:painting",
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-1911/annotation/osh-1911_00000350.jpg",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000350.jpg"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000350.jpg/full/200,/0/default.jpg",
+                        "width": 200,
+                        "height": 250
+                    },
+                    "height": 1785
+                },
+                {
+                    "label": "8",
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/list/osh-1911_00000390.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "width": 2220,
+                    "@type": "sc:Canvas",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000390.jpg",
+                    "images": [
+                        {
+                            "resource": {
+                                "format": "image/jpeg",
+                                "width": 2220,
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000390.jpg",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000390.jpg/full/full/0/default.jpg",
+                                "height": 1785
+                            },
+                            "@type": "oa:Annotation",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "motivation": "sc:painting",
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-1911/annotation/osh-1911_00000390.jpg",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000390.jpg"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000390.jpg/full/200,/0/default.jpg",
+                        "width": 200,
+                        "height": 250
+                    },
+                    "height": 1785
+                },
+                {
+                    "label": "9",
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/list/osh-1911_00000447.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "width": 2220,
+                    "@type": "sc:Canvas",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000447.jpg",
+                    "images": [
+                        {
+                            "resource": {
+                                "format": "image/jpeg",
+                                "width": 2220,
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000447.jpg",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000447.jpg/full/full/0/default.jpg",
+                                "height": 1785
+                            },
+                            "@type": "oa:Annotation",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "motivation": "sc:painting",
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-1911/annotation/osh-1911_00000447.jpg",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000447.jpg"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000447.jpg/full/200,/0/default.jpg",
+                        "width": 200,
+                        "height": 250
+                    },
+                    "height": 1785
+                },
+                {
+                    "label": "10",
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/list/osh-1911_00000483.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "width": 2220,
+                    "@type": "sc:Canvas",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000483.jpg",
+                    "images": [
+                        {
+                            "resource": {
+                                "format": "image/jpeg",
+                                "width": 2220,
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000483.jpg",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000483.jpg/full/full/0/default.jpg",
+                                "height": 1785
+                            },
+                            "@type": "oa:Annotation",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "motivation": "sc:painting",
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-1911/annotation/osh-1911_00000483.jpg",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000483.jpg"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-1911_00000483.jpg/full/200,/0/default.jpg",
+                        "width": 200,
+                        "height": 250
+                    },
+                    "height": 1785
+                }
+            ],
+            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-1911/sequence/normal",
+            "@type": "sc:Sequence",
+            "label": "Current Page Order",
+            "startCanvas": "https://readux.ecdsdev.org/iiif/osh-1911/canvas/osh-1911_00000012.jpg"
+        }
+    ],
+    "description": "A rich text summary with <i>italics</i> and <a href=\"http://www.google.com\" target=\"_blank\">hyperlinked</a> text.",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "logo": "https://readux.ecdsdev.org/media/logos/lits-logo-web.png",
+    "viewingHint": "paged",
+    "metadata": [
+        {
+            "label": "Author",
+            "value": "x"
+        },
+        {
+            "label": "Publisher",
+            "value": "x"
+        },
+        {
+            "label": "Place of Publication",
+            "value": "x"
+        },
+        {
+            "label": "Publication Date",
+            "value": "x"
+        },
+        {
+            "label": "Notes",
+            "value": [
+                {}
+            ]
+        },
+        {
+            "label": "Record Created",
+            "value": "2019-09-27T17:25:57.667Z"
+        },
+        {
+            "label": "Edition Type",
+            "value": "Readux IIIF Exported Edition"
+        },
+        {
+            "label": "About Readux",
+            "value": "https://readux.ecdsdev.org/about/"
+        },
+        {
+            "label": "Annotators",
+            "value": "Sara E. Palmer"
+        },
+        {
+            "label": "Export Date",
+            "value": "2020-07-09T14:55:02.130"
+        }
+    ],
+    "attribution": "Emory University Libraries"
+}
